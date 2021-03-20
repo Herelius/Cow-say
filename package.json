@@ -31,5 +31,8 @@
     "prettier": "^2.2.1",
     "sass": "^1.32.8"
   },
-  "homepage": "https://github.com/Herelius/Cow-say#readme"
+  "homepage": "https://github.com/Herelius/Cow-say#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
 }

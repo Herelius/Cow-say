@@ -1,0 +1,6 @@
+const myInfo = {
+    name : "Youcef",
+    campus : "Lyon"
+};
+
+module.exports = myInfo;
