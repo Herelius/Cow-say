@@ -1,0 +1,19 @@
+{
+  "name": "cow-say",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herelius/Cow-say.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herelius/Cow-say/issues"
+  },
+  "homepage": "https://github.com/Herelius/Cow-say#readme"
+}
